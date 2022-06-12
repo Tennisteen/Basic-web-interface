@@ -1,0 +1,17 @@
+@media only screen and(max-width: 500px)
+{
+.content h1 
+{
+    font-size: 45px
+    }
+.image img
+{
+    max-width:38%;
+}
+.button 
+{
+        width: 101px;
+        padding: 9px 0;
+        margin: 20px 14px;
+}
+}
